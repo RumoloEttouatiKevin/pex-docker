@@ -1,4 +1,4 @@
-# Projet 1 - Les images
+# Projet 2 - Les images
 
 ## Dockerfile
 
