@@ -7,4 +7,5 @@
 - [Projet 5 - Infrastructure as code (IaC)](./Project-5-IaC/README.md)
 - [Projet 6 - L'orchestration](./Project-6-Orchestration/README.md)
 - [Projet 7 - Registre privé](./Project-7-Private-Register/README.md)
-- [Projet 7 - Build multistage](./Project-8-Build-Multistage/README.md)
+- [Projet 8 - Build multistage](./Project-8-Build-Multistage/README.md)
+- [Projet 9 - Sécurité des images](./Project-9-Images-Security/README.md)
